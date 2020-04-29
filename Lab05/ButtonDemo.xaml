@@ -9,7 +9,7 @@
         <StackLayout>
 
             <Label x:Name="label"
-               Text="Click the Button below"
+               Text="Click the Buttonns below"
                FontSize="Large"
                VerticalOptions="CenterAndExpand"
                HorizontalOptions="Center" />
